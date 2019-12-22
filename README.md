@@ -1,4 +1,4 @@
-# java-
+# Java Concurrency
 A series of hour-long webinars covering the fundamentals of concurrency patterns in Java
 
 ## Registration link
