@@ -15,7 +15,7 @@ A series of hour-long webinars covering the fundamentals of concurrency patterns
      
  * References
     - TODO
- * Video recording of this webinar is available [here](https://www.youtube.com/watch?v=D61O7f4C2HA)
+ 
 
 ## General References
  - TODO
