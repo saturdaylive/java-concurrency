@@ -6,7 +6,7 @@ A series of hour-long webinars covering the fundamentals of concurrency patterns
 
 ## Upcoming webinars
 ### Java Concurrency
- * Dec 28, 9:30 - 10:15 AM IST followed by 15 minutes of Q&A.
+ * Dec 28, 11:00 - 11:45 AM IST followed by 15 minutes of Q&A.
  * Takeaways
      - Concurrency Overview
      - Concurrency vs Parallellism
