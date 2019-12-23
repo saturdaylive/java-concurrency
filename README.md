@@ -1,5 +1,5 @@
 # Java Concurrency
-A series of hour-long webinars covering the fundamentals of concurrency patterns in Java
+A series of hour-long webinars covering the fundamentals of concurrency patterns in Java. This series if part of the [Saturday Live series of webinars](https://saturdaylive.github.io/saturdaylive/).
 
 ## Registration link
 https://zoom.us/meeting/register/vJwodeisrj0qnQPlh2mTwdXd6ZvZv1fWvw
