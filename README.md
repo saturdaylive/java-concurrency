@@ -2,7 +2,7 @@
 A series of hour-long webinars covering the fundamentals of concurrency patterns in Java
 
 ## Registration link
-
+https://zoom.us/meeting/register/vJwodeisrj0qnQPlh2mTwdXd6ZvZv1fWvw
 
 ## Upcoming webinars
 ### Java Concurrency
