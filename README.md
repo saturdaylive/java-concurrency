@@ -22,3 +22,7 @@ https://zoom.us/meeting/register/vJwodeisrj0qnQPlh2mTwdXd6ZvZv1fWvw
  
 ## Contact
 Have a query regarding the webinars? Email us at [saturdaylivewebinars@gmail.com](mailto:saturdaylivewebinars@gmail.com)
+
+## Webinar poster
+Webinar poster
+https://saturdaylive.github.io/java-concurrency/
